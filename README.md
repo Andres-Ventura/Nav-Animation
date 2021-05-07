@@ -2,4 +2,4 @@
 Cool simple nav animation 
 
 
-project link here ->
+project link here -> https://andres-ventura.github.io/Nav-Animation/
